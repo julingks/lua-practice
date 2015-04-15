@@ -1,4 +1,4 @@
-# Luaa Practice
+# Lua Practice
 
 ## Programming in Lua
 * [http://www.lua.org/pil/1.html](http://www.lua.org/pil/1.html)
