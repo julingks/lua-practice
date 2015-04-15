@@ -1,6 +1,6 @@
 # Luaa Practice
 
-## Study Material
+## Programming in Lua
 * http://www.lua.org/pil/1.html
 
 ## Sample code
